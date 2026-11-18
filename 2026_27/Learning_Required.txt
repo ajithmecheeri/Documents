@@ -1,0 +1,40 @@
+This suggests Deloitte is looking for a senior leader who can still discuss:
+
+System design
+Cloud architecture
+AI platforms
+Engineering practices
+DevSecOps
+SRE
+
+===============
+
+2. AI / GenAI experience
+
+The JD heavily emphasizes:
+
+AI-first architecture
+GenAI production applications
+Data Engineering
+ML platforms
+
+You should be prepared with concrete examples such as:
+
+AI initiatives you've led
+LLM implementations
+RAG architectures
+AI governance
+Production deployment of AI workloads
+
+3. Cloud-native engineering
+
+They specifically mention:
+
+AWS
+Azure
+GCP
+FaaS
+PaaS
+
+If your experience is concentrated on one cloud provider, expect questions around multi-cloud strategy.
+

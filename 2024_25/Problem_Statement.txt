@@ -1,0 +1,13 @@
+
+Problem Statement: The engineering team was facing delays in product delivery due to a lack of clear communication and poor collaboration between various teams. This was leading to missed deadlines, bugs slipping into production, and frustrated stakeholders.
+
+Role: As the Engineering Head, my role was to lead the team in addressing the root cause of the problem, streamline processes, and improve overall efficiency. This meant working with both the development and QA teams to understand their pain points, creating a collaborative environment, and implementing best practices.
+
+Steps Taken:
+
+1. Conducted Cross-Department Meetings
+2. Improved Agile Methodologies
+3. Introduced Automated Testing
+4. Defined Clear Ownership and Accountability
+
+Impact: By improving collaboration, clarifying responsibilities, and introducing automation, the engineering team reduced their product delivery times by 30%. The number of bugs in production decreased, leading to fewer hotfixes and higher customer satisfaction. Additionally, stakeholders saw more reliable timelines, and the team morale improved due to smoother workflows and better inter-team communication.

@@ -1,0 +1,8 @@
+1. Get Payment URL from Razor pay
+2. Generate QR Code from Desktop app as Bitmap image
+3. when scanned from app - Either payment gateway page or UPI.
+4. Desktop app to poll razor pay API to find payment successful ( various code where success is also a code). or Every 5 min This can be blocked by razor pay. 
+5. alternate option to #4 is to configure webhook in Razor pay.( Webhook is an api). Once transaction done, it will
+call web hook. Write custom code to verify the transaction code. 
+Webhook is a custom Azure Container service. Razor pay will call this service with transaction service. webhook also we can call every 5 min but. 
+6. Container service can create  Webhook as well as Signal R server. Desktop application will create a Signal R client connedted to Container service Signal R Server. Once the webhook is reponse is received from Razror pay to container service. Webhook to  Signal R information is published which will be passed to client from Server.

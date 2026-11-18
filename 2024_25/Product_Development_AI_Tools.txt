@@ -1,0 +1,51 @@
+AI tools can significantly boost productivity and decision-making for product managers by streamlining tasks like user research, roadmap planning, competitive analysis, and performance tracking. Here's a categorized list of top AI tools tailored for product managers in 2025:
+
+🔍 User Research & Feedback Analysis
+Dovetail – AI-assisted tagging and theme detection from customer interviews and surveys.
+
+Hotjar AI – AI summaries of heatmaps, user behavior, and feedback.
+
+UserLeap (by ResearchGPT) – AI-powered in-product micro-surveys and instant qualitative insight summaries.
+
+Lyssna (formerly UsabilityHub) – Analyzes user testing and preference data with AI summarization.
+
+📊 Analytics & Decision Intelligence
+Mixpanel + AI Assist – Smart anomaly detection and trend prediction in product usage data.
+
+Amplitude + AI Insights – Behavioral cohort analysis with predictive insights for feature adoption and churn.
+
+Obviously.AI – No-code predictive analytics (e.g., churn prediction, user segmentation).
+
+🧠 Roadmapping & Prioritization
+airfocus – Smart prioritization scoring with AI-based suggestions from user feedback.
+
+Dragonboat – AI-enhanced portfolio roadmapping aligned with company OKRs and product goals.
+
+Craft.io – AI features to auto-summarize user needs and align them to roadmap themes.
+
+📋 Task Automation & Collaboration
+Notion AI – For product documentation, release notes, and meeting summaries.
+
+ClickUp AI – Automates task descriptions, sprint planning, and project updates.
+
+Linear AI – Smart ticket suggestions, duplicate detection, and release planning automation.
+
+🧾 Competitor & Market Intelligence
+Crayon – AI tracks competitor movements and alerts PMs to pricing, messaging, or product changes.
+
+Kompyte – Competitive battlecards and market signals with AI-curated insights.
+
+Semrush/Similarweb + AI – Analyze market trends and traffic patterns using predictive AI features.
+
+💬 AI Assistants for PMs
+ChatGPT / Claude / Perplexity – For writing PRDs, summarizing research, idea generation, or running market simulations.
+
+Rewind.ai – AI-powered memory assistant that helps PMs recall past meetings, documents, or user interactions.
+
+Tability – Auto-tracks OKRs, progress summaries, and smart goal suggestions.
+
+Bonus: 🧪 Idea Validation & Experimentation
+LaunchDarkly + AI – Helps PMs analyze feature flag results with intelligent cohort suggestions.
+
+VWO (Visual Website Optimizer) – AI-driven A/B test suggestions and result interpretation.
+

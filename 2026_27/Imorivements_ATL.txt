@@ -1,0 +1,30 @@
+Joined a startup in 2022
+- The company was small start up and had around 120 people
+- Process adoption was not great
+- Introduced many process
+	- Sprint process
+	 	-Improved sprint plan and process 
+		-Capture sprint velocity 
+		-Burndown and retrospective
+	- Improved Roadmap 
+		- Yearly roadmap
+		- tracking in Monday board
+		- biweekly stakeholder roadmap review
+	- ISO 270001/SOC2Type2
+		
+	- Release process
+		- Bi weekly one release
+		- Release approval process
+		- Release and rollback plan
+		- Release communication prior and post
+	- Support process
+		- Monday ticketing board
+		
+	
+	- CI/CD
+		- Implemented CI/CD
+		- Code scanning with Sonar Qube/ 
+
+
+Soft works
+	
